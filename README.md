@@ -35,7 +35,7 @@ Then you will see a window open with four trains and four sliders. You can adjus
 
 ---
 
-![Interface Screenshot](/train-problem/img/train.png)
+![Interface Screenshot](/img/train.png)
 
 *Above is a screenshot of the interface showing the four trains, the rails they move on, and the sliders for controlling each train's speed.*
 
