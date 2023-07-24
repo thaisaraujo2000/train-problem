@@ -29,7 +29,6 @@ To run this program, you will need to have Python and the `pygame` and `pygame_g
 ```bash
 python train.py
 ```
-Replace `train.py` with the name of the file that contains the code.
 
 Then you will see a window open with four trains and four sliders. You can adjust the speed of each train with the sliders.
 
