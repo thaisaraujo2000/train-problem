@@ -40,4 +40,4 @@ Then you will see a window open with four trains and four sliders. You can adjus
 
 ## Team Members 
 - [Morsinaldo Medeiros](https://github.com/Morsinaldo)
-- [Thaís Medeiros](https://github.com/thaisaraujo2000)
+- [Thaís Medeiros](https://github.com/thaisaraujom)
